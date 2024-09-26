@@ -1,0 +1,26 @@
+[
+  {
+    "key": 1,
+    "title": "You-Tube clone",
+    "imageSrc": "assets/hero/logo.jpg",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://shopify-aj.netlify.app/",
+    "source": "https://github.com/alispatel111/Yt-Clone"
+  },
+  {
+    "key": 2,
+    "title": "Book Store Mern App",
+    "imageSrc": "assets/hero/book.jpg",
+    "description": "Complete React project using Axios or Fetch API for frontend-backend communication.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/alispatel111/Book_Store"
+  },
+  {
+    "key": 3,
+    "title": "Swiggy-Clone",
+    "imageSrc": "assets/hero/swigy.png",
+    "description": "This is a project made with complete React js.",
+    "demo": "https://www.example.com",
+    "source": "https://github.com/alispatel111/Swiggy_clone"
+  }
+]

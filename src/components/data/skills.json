@@ -1,0 +1,40 @@
+[
+    {
+      "id": 1,
+      "title": "HTML",
+      "imageSrc": "skills/html.png",
+      "proficiency": "95"
+    },
+    {
+      "id": 2,
+      "title": "CSS",
+      "imageSrc": "skills/css.png",
+      "proficiency": "90"
+    },
+    {
+      "id": 3,
+      "title": "Javascript",
+      "imageSrc": "skills/javascript.png",
+      "proficiency": "70"
+    },
+    {
+      "id": 4,
+      "title": "React",
+      "imageSrc": "skills/react.png",
+      "proficiency": "78"
+
+    },
+    {
+      "id": 5,
+      "title": "Node",
+      "imageSrc": "skills/node.png",
+      "proficiency": "65"
+    },
+    
+    {
+      "id": 6,
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png",
+      "proficiency": "50"
+    }
+  ]
